@@ -5,15 +5,13 @@ In this level, we are going to start things off easy with the classic
 file, such that the following occurs:
 
 ```
-$ nix-build solution.nix 
+$ nix-build default.nix 
 these derivations will be built:
-  /nix/store/sz62l69qlnmg74fx8k63rmw1rl3hyqvl-hello-world.drv
-building '/nix/store/sz62l69qlnmg74fx8k63rmw1rl3hyqvl-hello-world.drv'...
-unpacking sources
-unpacking source archive /nix/store/15y0h40bpvwbrvp2dd9w1j7blhq8504g-00
+  /nix/store/jz9sz6vz3v132fwq6401ayk5gqh9ni4s-hello-world.drv
+building '/nix/store/jz9sz6vz3v132fwq6401ayk5gqh9ni4s-hello-world.drv'...
 -- snip --
-/nix/store/gcfnhr9087qsi3pdir6lafpwq5cg61wy-hello-world
-$ ./result/hello 
+/nix/store/fs9j5i8p9pr28j9mvsz9yz599kwh17l4-hello-world
+$ ./result/bin/hello
 hello, world!
 ```
 

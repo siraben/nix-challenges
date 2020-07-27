@@ -16,6 +16,12 @@ platforms using a variety of tools at your disposal (`patchSheBangs`,
 etc.).  Solutions will be provided, so if you get stuck you'll be able
 to see how it works.
 
+This project is **not** aimed at teaching you Nix, for that, see the
+resources linked above.  However, I'll provide as much comments as
+necessary to help those who may not be very familiar with Nix follow
+along.
+
+
 ## The Levels
 - Level 0: Hello world C program
 - Level 1: GNU Hello

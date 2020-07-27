@@ -17,8 +17,8 @@ stdenv.mkDerivation {
   # The installation phase, which consists of making the output
   # directory and moving the compiled binary to that directory.
   installPhase = ''
-    mkdir $out
-    mv hello $out
+    mkdir -p $out/bin
+    mv hello $out/bin
   '';
   # The sources, in this case the current directory.
   src = ./.;
