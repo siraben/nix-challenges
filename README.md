@@ -25,6 +25,5 @@ along.
 ## The Levels
 - Level 0: Hello world C program
 - Level 1: GNU Hello
-- Level 2: GNU Ed
 - Level ???: [TilEm](http://lpg.ticalc.org/prj_tilem/)
 
