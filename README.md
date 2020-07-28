@@ -23,7 +23,8 @@ along.
 
 
 ## The Levels
-- Level 0: Hello world C program
-- Level 1: GNU Hello
+- Level 0: Hello world C program (Makefile project)
+- Level 1: GNU Hello (GNU project)
+- Level 2: scas assembler (CMake project)
 - Level ???: [TilEm](http://lpg.ticalc.org/prj_tilem/)
 
