@@ -31,4 +31,4 @@ $ xxd incr.bin
 If you get stuck, inspect `solution.nix` and run it with `nix-build
 solution.nix`.
 
-Hint: `disableHardening`
+Hint: `hardeningDisable`
