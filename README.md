@@ -28,3 +28,7 @@ along.
 - Level 2: scas assembler (CMake project)
 - Level ???: [TilEm](http://lpg.ticalc.org/prj_tilem/)
 
+## Possible planned challenges
+- Cross-compilation
+- Wrapping binaries
+- Distributed builds
